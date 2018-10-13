@@ -1,2 +1,2 @@
 # Price Optimizer
-A simple ML based tool to optimize prices
+A simple price optimization example using a linear model
